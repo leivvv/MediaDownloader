@@ -4,4 +4,6 @@ An easy-to-use tool to download media from several media sharing sites, primaril
 
 You can view the whole list of supported sites here: https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
 
+Requires .NET 6.0
+
 Originally made as a school project.
